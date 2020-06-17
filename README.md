@@ -23,3 +23,7 @@ ContainingType::methodName
 Reference to a constructor - 
 ClassName::new
 
+What is Lambda Expression in Java8 ? 
+we can write lambda expression to replace the anonymous inner class.
+lambda expression make code very neat and clean.
+lambda expression are very to read. So, they make code more readable.

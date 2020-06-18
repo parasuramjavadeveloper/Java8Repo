@@ -1,5 +1,6 @@
 # Java8Repo
 Java8Repo
+Useful link https://www.javamadesoeasy.com/2017/10/what-are-method-references-in-java-8.html
 1) What are Method references in java 8?
 Ans) We use Lambda expressions to replace anonymous methods in java 8. 
 
